@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApacheKafkaConsumer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e54394ad5dd7f0ef21b40dfa117fa67bc25ed59")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f9a59b13335d4c540d7b8ac8218cf88ee3d057b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApacheKafkaConsumer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApacheKafkaConsumer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
