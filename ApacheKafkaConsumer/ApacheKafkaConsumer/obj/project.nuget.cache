@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FdANivpMLt4gHZbvPvexOV7O2bnAWx7OkcacJQ9Cb6WNGyUnnLIrFh96wV2TWMfKXoXbPuIiZPVh17baf3wQ2A==",
+  "success": true,
+  "projectFilePath": "/Users/yagmur/Documents/C#/Apache-Kafka/ApacheKafkaConsumer/ApacheKafkaConsumer/ApacheKafkaConsumer.csproj",
+  "expectedPackageFiles": [
+    "/Users/yagmur/.nuget/packages/confluent.kafka/2.5.2/confluent.kafka.2.5.2.nupkg.sha512",
+    "/Users/yagmur/.nuget/packages/librdkafka.redist/2.5.0/librdkafka.redist.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
