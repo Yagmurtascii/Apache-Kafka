@@ -9,6 +9,8 @@ We can use it when we need to access data instantly, for example; recommendation
 ## What we do need to use RabbitMQ?
 - Docker
 - Rider or Visual Studio Code (I used Rider)
-- Offset Explorer 3
+- [Offset Explorer 3](https://medium.com/@yagmurtasci/configure-offset-explorer-3-d242a101c16d).
 
-### For more information visit my [Medium](https://medium.com/@yagmurtasci).
+
+## For more information 
+- Visit my [Medium](https://medium.com/@yagmurtasci).
